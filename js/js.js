@@ -8,7 +8,7 @@ class Birthday {
   constructor() {
     this.resize()
 
-    // create a lovely place to store the firework
+    // create a lovely place to store the Firework
     this.fireworks = []
     this.counter = 0
 
@@ -183,9 +183,9 @@ const period = [
     n => 5 * (Math.sin(0.75 * n) + Math.cos(0.25 * n) - 1)
 ];
 
-//Emojis to substitute for snowflakes, just for fun 💕🎉💞😍🤗☺️
+//Emojis to substitute for snowflakes, just for fun 💕🎉💞😍😊☺️
 
-const fun = ['💕', '🎁', '🎉', '💞', '🤗'];
+const fun = ['💕', '🎁', '🎉', '💞', '😊'];
 
 //The CSS styles for the snowflakes and container
 const cssString = `.snowfall-container {
