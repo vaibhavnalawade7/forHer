@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+@media (min-width: 600px) {
+    body {
+        background-color: cyan;
+    }
+}
+
+@media (max-width: 599px) {
+    body {
+        background-color: purple;
+    }
+}
+
+body {
+    cursor: crosshair;
+}
+
+canvas {
+    display: block
+}
+
+h1 {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, 0);
+    color: rgb(185, 80, 199);
+    font-family: "Source Sans Pro";
+    font-size: 5em;
+    font-weight: 900;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+.typewriter {
+    font-family: Courier, monospace;
+    display: inline-block;
+}
+
+.typewriter-text {
+    display: inline-block;
+    overflow: hidden;
+    letter-spacing: 0.5px;
+    animation: typing 5s steps(30, end), blink .7s step-end infinite;
+    white-space: nowrap;
+    font-weight: 700;
+    border-right: 4px solid orange;
+    box-sizing: border-box;
+    border: 1px solid rgb(255, 16, 240);
+}
+
+@keyframes typing {
+    from {
+        width: 0%
+    }
+    to {
+        width: 100%
+    }
+}
+
+@keyframes blink {
+    from,
+    to {
+        border-color: transparent
+    }
+    50% {
+        border-color: rgb(255, 16, 240);
+    }
+}

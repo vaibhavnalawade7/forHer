@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday🎂</title>
+
+    <link rel="stylesheet" href="css/style.css">
+    <script defer src="js/js.js"></script>
+    <!-- //Happy Birthday🎂<br>My Dear Friend Nisha -->
+    </script>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="container">
+            <h1 class="typewriter-text" style="font-size:10vw;">
+		<span style="color:#FF0000">H</span>
+  <span style="color:#66CC66">a</span>
+  <span style="color:#FF9966">p</span>
+  <span style="color:#FFCCCC">p</span>
+  <span style="color:#FF0066">y</span>
+  
+  <span style="color:#FF0000">&nbspB</span>
+  <span style="color:#66CC66">i</span>
+  <span style="color:#FF9966">r</span>
+  <span style="color:#FFCCCC">t</span>
+  <span style="color:#FF0066">d</span>
+  <span style="color:#FF0000">a</span>
+  <span style="color:#66CC66">y🎂</span><br>
+  
+  <span style="color:#FF9966">&nbspM</span>
+  <span style="color:#FFCCCC">y</span>
+  
+  <span style="color:#FF0066">&nbspD</span>
+
+  <span style="color:#FF0000">e</span>
+  <span style="color:#66CC66">a</span>
+  <span style="color:#FF9966">r</span>
+  <span style="color:#FFCCCC">&nbspF</span>
+  <span style="color:#FF0066">r</span>
+     
+  <span style="color:#FF0000">i</span>
+  <span style="color:#66CC66">e</span>
+  <span style="color:#FF0066">n</span>
+  <span style="color:#FF9966">d</span>
+  <span style="color:#FFCCCC">&nbspN</span>
+  <span style="color:#FF0066">i</span>
+  
+  <span style="color:#FF0000">s</span>
+  <span style="color:#66CC66">h</span>
+  <span style="color:#FF9966">a</span>
+
+</h1>
+        </div>
+    </div>
+<canvas id="birthday"></canvas>
+</body>
+</html> 
